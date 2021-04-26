@@ -13,15 +13,15 @@ I'm Nahyun Kim
 - ⚡ Fun fact: ...✨
 -->
 
-## :notebook: MAJOR
-####   · Industrial Engineering
+### :notebook: MAJOR
+#####   · Industrial Engineering
 
-## :trophy: CERTIFICATE
-####  · 정보처리기사 필기
-####  · ADSP
-####  · 컴퓨터활용능력 1급
+### :trophy: CERTIFICATE
+#####  · 정보처리기사 필기
+#####  · ADSP
+#####  · 컴퓨터활용능력 1급
 
-## 🌱 Experience
-####  · 교내 캡스톤 디자인 대회 최우수상
-####   · 데이터 청년캠퍼스 프로젝트평가 장려상
+### 🌱 Experience
+#####  · 교내 캡스톤 디자인 대회 최우수상
+#####  · 데이터 청년캠퍼스 프로젝트평가 장려상
 
