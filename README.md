@@ -12,7 +12,8 @@
 -->
 
 ## Major
-### Industrial Engineering
+Industrial Engineering
+### 
 
 ## 🌱 Experience
 
