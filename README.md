@@ -24,8 +24,9 @@
 #####  · 데이터 청년캠퍼스 프로젝트평가 장려상
 
 ### :computer: PROJECT
-#####  · [JSP MODEL 1 게시판](https://github.com/nasus309/Jsp)
-#####  · JSP MODEL 2 게시판
-#####  · SPRING BOOT MODEL 1 게시판
+#####  · [JSP MODEL 1 게시판](https://github.com/nasus309/Jsp/tree/master/Farmstory1)
+#####  · [JSP MODEL 2 게시판](https://github.com/nasus309/Jsp/tree/master/Farmstory2)
+#####  · [SPRING BOOT 게시판](https://github.com/nasus309/Jsp/tree/master/Farmstory2)
+#####  · [SPRING BOOT 쇼핑몰](https://github.com/nasus309/Spring/tree/master/kmarket)
 
 
