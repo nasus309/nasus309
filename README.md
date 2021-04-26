@@ -13,7 +13,7 @@ I'm Nahyun Kim
 - ⚡ Fun fact: ...✨
 -->
 
-## MAJOR
+## :notebook: MAJOR
 #### · Industrial Engineering
 
 ## :trophy: CERTIFICATE
