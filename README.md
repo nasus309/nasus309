@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Nahyun Kim
+## I'm Nahyun Kim
 
 <!--
 - 🔭 I’m currently working on ...
