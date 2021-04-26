@@ -16,7 +16,7 @@ I'm Nahyun Kim
 ## MAJOR
 #### · Industrial Engineering
 
-## CERTIFICATE
+## :trophy: CERTIFICATE
 #### · 정보처리기사 필기
 #### · ADSP
 #### · 컴퓨터활용능력 1급
