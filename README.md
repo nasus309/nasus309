@@ -1,4 +1,4 @@
-## Hi there 👋 <br/> I'm Nahyun Kim
+## Hi there 👋 <br/><br/> I'm Nahyun Kim
 
 <!--
 - 🔭 I’m currently working on ...
