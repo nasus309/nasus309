@@ -21,7 +21,13 @@ I'm Nahyun Kim
 #####  · ADSP
 #####  · 컴퓨터활용능력 1급
 
-### 🌱 Experience
+### 🌱 EXPERIENCE
 #####  · 교내 캡스톤 디자인 대회 최우수상
 #####  · 데이터 청년캠퍼스 프로젝트평가 장려상
+
+### PROJECT
+#####  · JSP MODEL 1 게시판
+#####  · JSP MODEL 2 게시판
+#####  · SPRING BOOT MODEL 1 게시판
+
 
