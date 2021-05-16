@@ -25,7 +25,7 @@
 
 ### :computer: PROJECT
 #####  · [JSP MODEL 1 게시판](https://github.com/nasus309/Jsp/tree/master/Farmstory1)
-#####  · [JSP MODEL 2 게시판](https://github.com/nasus309/Jsp/tree/master/Farmstory2)
+#####  · [JSP MODEL 2 게시판](http://15.164.230.250:8080/Farmstory2/)
 #####  · [SPRING BOOT 쇼핑몰](https://github.com/nasus309/Spring/tree/master/kmarket)
 
 
