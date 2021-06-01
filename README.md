@@ -15,7 +15,7 @@
 #####   · Industrial Engineering
 
 ### :trophy: CERTIFICATE
-#####  · 정보처리기사 필기
+#####  · 정보처리기사
 #####  · 데이터분석 준전문가(ADSP)
 #####  · 컴퓨터활용능력 1급
 
